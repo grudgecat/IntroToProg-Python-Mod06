@@ -1,0 +1,3 @@
+Clean the kitchen counters,3
+Put away dishes,1
+Scrub floors,2
